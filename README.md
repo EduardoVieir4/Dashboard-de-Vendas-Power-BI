@@ -98,7 +98,7 @@ Para visualizar o projeto, basta baixar o arquivo e abrir no **Power BI Desktop*
 
 📌 Portfólio em construção com foco em **Análise de Dados e Business Intelligence**.
 
-🔗 LinkedIn: *(adicione seu link aqui)*
+🔗 LinkedIn: *www.linkedin.com/in/eduardo-nogueira-25440519b*
 
 ---
 
