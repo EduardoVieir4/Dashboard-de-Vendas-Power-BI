@@ -1,6 +1,8 @@
 # 📊 Dashboard de Vendas – Power BI
 
 ## 📌 Visão Geral
+![Dashboard Principal](images/principal.png)
+
 Este projeto consiste no desenvolvimento de um **Dashboard de Vendas** no **Power BI**, com foco em análise de desempenho comercial, acompanhamento de KPIs e suporte à tomada de decisão.
 
 O dashboard permite uma visão clara e interativa sobre faturamento, custos, lucro, pedidos e comportamento de vendas ao longo do tempo.
@@ -36,6 +38,8 @@ Todos os indicadores podem ser analisados por **Ano, Categoria e Mercado**, util
 ---
 
 ## 🧱 Modelagem de Dados
+![Dashboard Principal](images/modelagem.png)
+
 O modelo segue o conceito de **modelo estrela**, garantindo melhor performance e clareza analítica.
 
 ### 🔹 Tabelas do Modelo
